@@ -7,6 +7,11 @@
 | 名称                                         | 歌单 ID      |
 | -------------------------------------------- | ------------ |
 | 私人雷达                                     | [3136952023](https://music.163.com/#/playlist?id=3136952023) |
+| 新歌雷达                                     | [5300458264](https://music.163.com/#/playlist?id=5300458264) |
+| 时光雷达                                     | [5320167908](https://music.163.com/#/playlist?id=5320167908) |
+| 乐迷雷达                                     | [5327906368](https://music.163.com/#/playlist?id=5327906368) |
+| 神秘雷达                                     | [5341776086](https://music.163.com/#/playlist?id=5341776086) |
+| 宝藏雷达                                     | [5362359247](https://music.163.com/#/playlist?id=5362359247) |
 | 韩系私人订制                                 | [2829920189](https://music.163.com/#/playlist?id=2829920189) |
 | 华语私人订制                                 | [2829883282](https://music.163.com/#/playlist?id=2829883282) |
 | 欧美私人订制                                 | [2829816518](https://music.163.com/#/playlist?id=2829816518) |
